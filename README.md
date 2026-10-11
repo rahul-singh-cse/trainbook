@@ -1,7 +1,9 @@
 # TrainBook 🚆
 Full stack train ticket booking app.
-## Live Demo
-trainbook-five.vercel.app
+## Live Demo :## 🔗 Live Demo
+**Frontend:** [trainbook-five.vercel.app](https://trainbook-five.vercel.app)
+
+> Backend free server pe hai, pehli baar load hone me 40-60 second lag sakte hain.
 **Stack:** Java 17, Spring Boot 3, Spring Data JPA, H2 (file DB) + React 18 (Vite)
 
 ## Features
